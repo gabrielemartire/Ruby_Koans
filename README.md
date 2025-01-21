@@ -1,6 +1,7 @@
 ### Koans
 
-find note with #NOTE
+> [!IMPORTANT]
+> find note with #NOTE
 
  1. AboutAsserts
  2. AboutTrueAndFalse
@@ -19,32 +20,15 @@ find note with #NOTE
 15. AboutTriangleProject
 16. AboutExceptions
 17. AboutTriangleProject2
-AboutIteration
-AboutBlocks
-AboutSandwichCode
-AboutScoringProject
-AboutClasses
-AboutOpenClasses
-AboutDiceProject
-AboutInheritance **
-AboutModules
-AboutScope
-AboutClassMethods
-AboutMessagePassing
-
-
-
-
-entrare in una console ruby
-❯ irb
-irb(main):001> p "pippo" => "pippo"
-irb(main):002> exit
-❯ 
-
-class Cat
-  attr_reader :color
-  def inspect
-    "Cat - id: #{object_id} - color: #{color}"
-  end
-end
-Cat.new("white").inspect
+18. AboutIteration
+19. AboutBlocks
+20. AboutSandwichCode
+21. AboutScoringProject
+22. AboutClasses
+23. AboutOpenClasses
+24. AboutDiceProject
+25. AboutInheritance **
+26. AboutModules
+27. AboutScope
+28. AboutClassMethods
+29. AboutMessagePassing
